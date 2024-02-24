@@ -1,0 +1,22 @@
+{
+  "name": "grunt-electronpackager-alt",
+  "version": "1.0.0",
+  "description": "A grunt plugin to run electron-packager.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coqsenpate/grunt-electronpackager-alt.git"
+  },
+  "keywords": [
+    "grunt",
+    "electron-packager"
+  ],
+  "author": "Nicolas Leclerc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coqsenpate/grunt-electronpackager-alt/issues"
+  },
+  "homepage": "https://github.com/coqsenpate/grunt-electronpackager-alt#readme",
+  "peerDependencies": {
+    "grunt": ">=1"
+  }
+}
